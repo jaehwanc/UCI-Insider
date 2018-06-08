@@ -50,3 +50,4 @@ d) Class suggestion:
 At first, our system analyzes the classes that user tok and then calculates the three most-frequent departments of 
 classes that user took previously. The system rank the classes and get the recommendation result from the database 
 by considering those three departments since the user will have more preferences for those department courses.
+(Application code is not included in here)
